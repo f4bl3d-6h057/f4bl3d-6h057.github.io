@@ -22,13 +22,13 @@ repository               : "f4bl3d-6h057/f4bl3d-6h057.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "f4bl3d-6h057"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Graduate student in mathematics and cybersecurity professional"
+  location         : "Texas"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
