@@ -3,9 +3,9 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Highschool Math Courses"
 permalink: /teaching/2019-teaching-1
-venue: "Henrietta High School, Department"
+venue: "H. High School, Department"
 date: 2019-08-15
-location: "Henrietta, Texas, USA"
+location: "H., Texas, USA"
 ---
 
 First full time job with teaching duties including lesson planning and grading.
