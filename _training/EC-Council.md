@@ -1,22 +1,16 @@
 ---
-title: "EC-Council Training"
+title: "EC-Council Certifications"
 collection: training
-type: "Highschool Math Courses"
 permalink: /training/EC-Council
-venue: "H. High School, Department"
-date: 2019-08-15
-location: "H., Texas, USA"
+date: 2023-12-15
 ---
+# EC-Council Certifications
+These certificates have been obtained from EC-Council. They may be verified via [this](https://aspen.eccouncil.org/Verify) link.
 
-First full time job with teaching duties including lesson planning and grading.
-Curriculum was largely set by state standards.
-Pedagogic philosophy was repition with less help at every step. Help if needed.
+## CEH (Certified Ethical Hacker)
 
-Geometry
-======
+## CHFI (Certified Hacking Forensic Investigator)
 
-Math for Life
-======
+## CTIA (Certified Threat Intelligence Analyst)
 
-Number Sense Team
-======
+## ECES (Certified Encryption Specialist)
