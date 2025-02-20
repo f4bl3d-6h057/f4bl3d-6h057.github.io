@@ -278,7 +278,7 @@ defaults:
   # _trainings
   - scope:
       path: ""
-      type: portfolio
+      type: training
     values:
       layout: single
       author_profile: true
