@@ -3,7 +3,6 @@ title: "CompTIA"
 excerpt: "Certifications from CompTIA<br/><img src='/images/500x300.png'>"
 collection: training
 ---
-# CompTIA Certifications
 
 ## Security+
 ### Candidate ID: asdfjasdfj
