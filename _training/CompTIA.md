@@ -1,12 +1,21 @@
 ---
-title: "Training item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CompTIA"
+excerpt: "Certifications from CompTIA<br/><img src='/images/500x300.png'>"
 collection: training
 ---
 # CompTIA Certifications
 
 ## Security+
+# Candidate ID: asdfjasdfj
+# Certification Date: 
+Expriation Date: 
 
 ## Network+
+# Candidate ID: asdfjasdfj
+# Certification Date: 
+Expriation Date: 
 
 ## A+
+# Candidate ID: asdfjasdfj
+# Certification Date: 
+Expriation Date: 
