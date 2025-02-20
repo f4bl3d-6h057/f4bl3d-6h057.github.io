@@ -6,16 +6,16 @@ collection: training
 # CompTIA Certifications
 
 ## Security+
-# Candidate ID: asdfjasdfj
-# Certification Date: 
+### Candidate ID: asdfjasdfj
+### Certification Date: 
 Expriation Date: 
 
 ## Network+
-# Candidate ID: asdfjasdfj
-# Certification Date: 
+### Candidate ID: asdfjasdfj
+### Certification Date: 
 Expriation Date: 
 
 ## A+
-# Candidate ID: asdfjasdfj
-# Certification Date: 
+### Candidate ID: asdfjasdfj
+### Certification Date: 
 Expriation Date: 
