@@ -2,10 +2,11 @@
 title: "Sneak"
 collection: training
 permalink: /training/Sneak
-date: 2025-08-15
+date: 2025-02-04
 ---
 
 # Sneak Trainings
+These trainings have been completed/in-progress from the website [Sneak](https://learn.snyk.io/).
 
 ## OWASP Top 10 LLM and GenAI
 ### Description
