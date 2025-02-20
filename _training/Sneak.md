@@ -8,7 +8,6 @@ date: 2025-08-15
 # Sneak Trainings
 
 ## OWASP Top 10 LLM and GenAI
-======
 ### Description
 Artificial Intelligence (AI) is now seen across multiple industries. Understanding the security implications of these technologies is more important than ever. 
 The Open Web Application Security Project (OWASP) has identifyed and addressed the most critical security risks in software development. 
@@ -28,7 +27,6 @@ This learning path is designed to provide you with a comprehensive understanding
 - LLM10: Model Theft
 
 ## Security for developers
-======
 ### Description
 Snyk and New York University, Tandon School of Engineering are partnering together to offer and curate Snyk Learn lessons for an NYU Cybersecurity Industry Partner badge: Security for Developers.
 Snyk Learn offers NYU Tandon students a unique opportunity to enhance their security skills. 
