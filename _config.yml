@@ -224,7 +224,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  trainings:
+  training:
     output: true
     permalink: /:collection/:path/
 
@@ -278,7 +278,7 @@ defaults:
   # _trainings
   - scope:
       path: ""
-      type: training
+      type: portfolio
     values:
       layout: single
       author_profile: true
