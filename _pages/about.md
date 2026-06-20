@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Mathematics.</p>
-    <p>Computah Science.</p>
+    <p>Mathematics.</p><br>
+    <p>Computah Science.</p><br>
     <p>TAMU.</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -29,6 +29,6 @@ latest_posts:
 
 I am a graduate student at TAMU leveraging mathematical tools for computer science & cybersecurity problems. I have years of industry experience and multiple certifications.
 
-I am currently working on graph theoretic results on computation and formal verifiation using Lean 4.
+I am currently working on graph theoretic results on computation and formal verification using Lean 4.
 
-I have an ongoing interets in Cryptography and zero trust.
+I have an ongoing intrest in Cryptography and zero trust.

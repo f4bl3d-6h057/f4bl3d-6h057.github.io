@@ -1,29 +1,20 @@
-// Hacker Theme SCSS Variables
-$bg-color: #0d0208;
-$text-color: #00ff00; 
-$accent-color: #008f00; 
-$font-family: 'Courier New', Courier, monospace;
-
-body {
-  background-color: $bg-color;
-  color: $text-color;
-  font-family: $font-family;
-  line-height: 1.6;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: $accent-color;
-  text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
-}
-
-// Code blocks (to look like a real terminal)
-pre {
-  background-color: darken($bg-color, 3%);
-  border: 1px solid $accent-color;
-  padding: 15px;
-  border-radius: 4px;
+// Force BOTH default and dark profiles to be terminal black
+:root, [data-theme="dark"] {
+  // Pure terminal black background
+  --global-bg-color: #050206;
+  --global-code-bg-color: #0c050f;
+  --global-card-bg-color: #0a040d;
   
-  code {
-    color: $text-color;
-  }
+  // Neon hacker greens
+  --global-text-color: #a8ffb2;
+  --global-theme-color: #00ff33;
+  --global-hover-color: #ffffff;
+  
+  // Clean dark outlines
+  --global-divider-color: #003b00;
+  
+  // Header and Navigation accents
+  --global-navbar-text-color: #00ff33;
+  --global-footer-bg-color: #050206;
+  --global-footer-text-color: #003b00;
 }

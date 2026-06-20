@@ -1,0 +1,22 @@
+// Hide the gem-provided dark/light mode toggle switch completely
+#light-toggle {
+  display: none !important;
+}
+
+// Force terminal monospace font family across standard elements
+body, p, span, li, input, textarea {
+  font-family: 'Courier New', Courier, monospace !important;
+}
+
+// Neon accent glows for standard markdown headers
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Courier New', Courier, monospace !important;
+  color: var(--global-theme-color) !important;
+  text-shadow: 0 0 5px rgba(0, 255, 51, 0.7);
+}
+
+// Code block terminal boxes
+code, pre {
+  font-family: monospace !important;
+  border: 1px solid var(--global-divider-color);
+}
