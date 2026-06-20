@@ -1,0 +1,29 @@
+// Hacker Theme SCSS Variables
+$bg-color: #0d0208;
+$text-color: #00ff00; 
+$accent-color: #008f00; 
+$font-family: 'Courier New', Courier, monospace;
+
+body {
+  background-color: $bg-color;
+  color: $text-color;
+  font-family: $font-family;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $accent-color;
+  text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+}
+
+// Code blocks (to look like a real terminal)
+pre {
+  background-color: darken($bg-color, 3%);
+  border: 1px solid $accent-color;
+  padding: 15px;
+  border-radius: 4px;
+  
+  code {
+    color: $text-color;
+  }
+}
